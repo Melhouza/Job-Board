@@ -1,0 +1,5 @@
+#grad {
+    height: 1000px;
+    background-color: blue;
+    background-image: linear-gradient(to bottom right, blue, purple);
+}
