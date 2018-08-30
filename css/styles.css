@@ -1,5 +1,48 @@
 #grad {
-    height: 1000px;
+    height: 700px;
     background-color: blue;
-    background-image: linear-gradient(to bottom right, blue, purple);
+    background-image: linear-gradient(to bottom right, blue, white);
+}
+.container{
+  margin-left: 0;
+  margin-right: 0;
+}
+.navbar {
+  background-color: navy;
+  text-decoration-color: white;
+}
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 3000px;
+   height: 400px
+   background-color: black;
+   color: white;
+   text-align: center;
+}
+.details{
+  text-align: center;
+}
+.signup{
+  float:right;
+  text-color: white;
+}
+.about{
+  border-color: black;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-color:white;
+}
+.docimage{
+  height: 400px;
+  width:400px;
 }
