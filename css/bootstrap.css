@@ -12,6 +12,12 @@ html {
 body {
   margin: 0;
 }
+<<<<<<< HEAD
+=======
+h1{
+  color: red;
+}
+>>>>>>> b32a7e7703db820a5e0612d2e9662e12764ee07f
 article,
 aside,
 details,
