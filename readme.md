@@ -1,15 +1,17 @@
 # Project title
 JOB-BOARD
 # Author name
- MELVIN GITAU CARO MBITHE ALDRIN NJUGUNA
+ -[MELVIN GITAU] (https://github.com/Melhouza/Job-Board)
+ -[CARO MBITHE] (https://github.com/carolmbithe/Job-Board)
+ -[ALDRIN NJUGUNA] (https://github.com/aldrin5n5/Job-Board)
 # Description of project
  Job Board is a project to network like-minded individuals in the same career path to network.
 
 # Deployment
-You can get my live site at gh-pages with this link  https://melhouza.github.io/Pig-Dice/
+You can get my live site at gh-pages with this link  https://melhouza.github.io/Job-Board/
 
 # Project setup instructions
-You can install this app by cloning the repository from this link https://github.com/Melhouza/Pig-Dice.git
+You can install this app by cloning the repository from this link https://github.com/Melhouza/Job-Board.git
 
 # Known Bugs
 There are no known bugs so far,everything is working.
