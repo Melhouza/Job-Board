@@ -1,5 +1,32 @@
-body,
-html {
+.panel{
+	background-color: white(0,0,0.8);
+
+}
+
+
+#grad {
+	height:700px;
+	/* background-color: blue; */
+	/* background-image: linear-gradient(to bottom right,blue,white) */
+}
+.container {
+	margin-left: 0;
+	margin-right: 0;
+}
+.navbar {
+	background-color: black;
+	text-decoration-color: white;
+}
+.details{
+	text-align: center;
+}
+.signup{
+	float: right;
+
+}
+
+body,html {
+
 	overflow-x:hidden;
 }
 
@@ -1314,6 +1341,7 @@ s	font-size: 18px;
 
 
 
+
 /*--------------------*/
 /* RESPONSIVE STYLE */
 /*--------------------*/
@@ -1734,4 +1762,15 @@ s	font-size: 18px;
 
 
 
+}
+
+#backgroundimage{
+	background-image: url("../images/doc1.jpg");
+
+	height:100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
 }
